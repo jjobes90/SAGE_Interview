@@ -1,0 +1,70 @@
+html {
+  text-align: center;
+  margin: 3em;
+  background-color: lightblue;
+}
+
+.filled {
+  height: 20px;
+  background-color: blue;
+  width: 280px;
+}
+
+.empty {
+  height: 20px;
+  background-color: white;
+  width: 280px;
+}
+
+img {
+  position: absolute;
+  width: 500px;
+  height: auto;
+  left: 9%;
+  top: 49%;
+}
+
+.card {
+  padding: 20px;
+  width: 600px;
+}
+
+.counter {
+  background-color: grey;
+  width: 150px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+}
+
+#root {
+  background-color: lightblue;
+}
+
+#level5 {
+  width: 350px;
+}
+
+#level4 {
+  width: 350px;
+}
+
+#level3 {
+  width: 320px;
+  margin-left: 1em;
+}
+
+#level2 {
+  width: 300px;
+  margin-left: 2em;
+}
+
+#level1 {
+  width: 270px;
+  margin-left: 3em;
+}
